@@ -4,11 +4,11 @@ This is a markdown file.
 
 ## This is a Subheading
 
-To create an ordered list:
+top 3 favourite rappers:
 
-1. use numbers
-1. the list items will get automatically numbered
-1. even if you don't use sequential numbers
+1. drake 
+2. eminem
+3. kendrick lamar 
 
 To create an unordered list:
 
